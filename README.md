@@ -15,6 +15,4 @@ prophet - modelo de machine learning.
 
 - Exercícios, desafios e análises propostos pela Pós-graduação em Data Analytics pela Fiap e Alura.
 
-- o arquivo final de "Produção Hospitalar" é o "Produção Hospitalar"; foram feitos diversas versões do mesmo devido as aulas diversas, ocasionando um numero significativo de versões no Repositório.
 
-  
