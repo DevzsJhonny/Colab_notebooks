@@ -3,8 +3,8 @@ Hands-on em aulas práticas de Análise de Dados com Python.
 
 Análise de dados, com arquivos excel e CSV; Análise Exploratória de Dados e Visualização de Dados; também Previsões futuras com Machine Learning.
 
-Utilizado as bibliotecas:
-<li>
+<li>Utilizado as bibliotecas:
+
 Pandas - manipulação de dados;</br>
 <ul>Matplotlib - criação de gráficos;</br>
 Plotly - Gráficos interativos;</br>
