@@ -14,6 +14,6 @@ Utilizado as bibliotecas:
 - prophet - modelo de machine learning.</br>
 /br>
 
-- Exercícios, desafios e análises propostos pela Pós-graduação em Data Analytics pela Fiap e Alura.
+Exercícios, desafios e análises propostos pela Pós-graduação em Data Analytics pela Fiap e Alura.
 
 
