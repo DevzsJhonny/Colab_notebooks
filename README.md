@@ -5,7 +5,7 @@ Análise de dados, com arquivos excel e CSV; Análise Exploratória de Dados e V
 
 <li>Utilizado as bibliotecas:
 
-Pandas - manipulação de dados;</br>
+<ul>Pandas - manipulação de dados;</br>
 <ul>Matplotlib - criação de gráficos;</br>
 Plotly - Gráficos interativos;</br>
 Seaborn - Coloração de graficos;</br>
