@@ -12,7 +12,7 @@ Seaborn - Coloração de graficos;</br>
 pyplot - manipulação e customização de gráficos e eixos;</br>
 yfinance - yahoo finance api;</br>
 prophet - modelo de machine learning.</br>
-</li>
+</li></br>
 
 - Exercícios, desafios e análises propostos pela Pós-graduação em Data Analytics pela Fiap e Alura.
 
